@@ -31,6 +31,29 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+header a {
+
+    
+
+            display: flex;
+           flex-direction: column;
+           flex-flow: wrap;
+           height: auto;
+           width: 120px;
+        }
+        .lambdablack{
+            border-image-width ;
+            padding-top:;
+            align-items: center;
+
+
+        }
+
+        .jumbo{ 
+            display: flex;
+            margin: auto;
+        }
+
 ol, ul {
 	list-style: none;
 }
@@ -51,6 +74,100 @@ table {
     box-sizing: border-box;
 }
 
+.box1 {
+    background-color: teal;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+
+}
+
+.box2 {
+    background-color: gold;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+    
+}
+
+.box3 {
+    background-color: cadetblue;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+    
+}
+
+.box4 {
+    background-color: coral;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+    
+}
+
+.box5 {
+    background-color:crimson;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+    
+}
+.box6 {
+    background-color:forestgreen;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+    
+}
+.box7 {
+    background-color:darkorchid;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+    
+}
+.box8 {
+    background-color:hotpink;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+    
+}
+.box9 {
+    background-color: indigo;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+    
+}
+.box10 {
+    background-color: dodgerblue;
+    width: 100px;
+    height: 100px;
+    margin: 20px
+    text-align: center;
+    padding: 40px;
+    
+}
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
