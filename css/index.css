@@ -31,27 +31,46 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-header a {
+header {
+      
+           display: flex-wrap;
+           height: auto;
+           width: auto;
+           padding: 12px;
+           justify-content: space-evenly;
+           align-content: space-evenly;
+            border: 6px solid red;
+           }
 
-    
+        a {
+            font-display: flex;
+            flex-flow: row wrap;
+            align-items: center;
+            justify-content: space-evenly;
+            height: auto;
+            font-size: 10px;
+            width: auto;
+
+
+        }
+        .lambdablack {
 
             display: flex;
-           flex-direction: column;
-           flex-flow: wrap;
-           height: auto;
-           width: 120px;
-        }
-        .lambdablack{
-            border-image-width ;
-            padding-top:;
-            align-items: center;
-
+            flex-flow: flex-left;
+            padding: top 10;
+           
+           background-color:pink ;
 
         }
 
         .jumbo{ 
             display: flex;
             margin: auto;
+            padding: 25px;
+            align-items: center;
+            height: auto;
+            width: auto;
+            background-color: chartreuse;
         }
 
 ol, ul {

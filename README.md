@@ -42,6 +42,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
+
+ANSWERS
+
+1.	A semantic element clearly describes its meaning to both the browser and the developer. This describe meaning of the information in webpages and web applications rather than merely to define its presentation or look.
+
+2.	Display block element always starts on a new line and takes up the full width available thus stretches out to the left and right as far as it can whilst a display inline element only takes up as much width as necessary
+
+3.	Margin
+    Border
+    Padding
+    Content
+
+ 4.	The center value aligns the flex items in the middle of the container
+
+ 5.	Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
