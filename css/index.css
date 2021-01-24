@@ -278,4 +278,26 @@ footer nav a {
 .Strategy-howwework{
     display: flex;
     
+    
+ }
+
+ .imgLine{
+      
+    border-bottom:  2px dotted black;
+    justify-content: space-between;
+    padding: 2px ;
+    
+ }
+
+.about-page{
+    border-bottom:  2px dotted black;
+    
+}
+button{
+
+    border-radius: 20%;
+    font-size: 20px;
+    padding: 10px;
+    
+    
 }
